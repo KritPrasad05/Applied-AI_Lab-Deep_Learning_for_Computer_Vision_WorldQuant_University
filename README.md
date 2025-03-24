@@ -57,8 +57,9 @@ pip install -r requirements.txt
 # Open Jupyter Notebook:
 jupyter notebook
 ```
-##Credits & License
-This repository is based on [WorldQuant University (WQU)](https://www.wqu.edu/) coursework and is shared with permission. All rights to course materials remain with WQU. This repository is for educational and non-commercial purposes only.
+## Credits & License
+
+This repository is based on [WorldQuant University (WQU)](https://www.wqu.edu/) coursework and is shared with permission. All rights to course materials remain with **WQU**. This repository is for educational and non-commercial purposes only.
 
 You can also apply for this course through the following line:  [Applied AI Lab: Deep Learning for Computer Vision](https://www.wqu.edu/ai-lab-computer-vision?utm_term=best%20machine%20learning%20course&utm_campaign=GA_AiLabs_SEA_Africa%2BAsia_WW&utm_source=adwords&utm_medium=ppc&hsa_acc=1450481729&hsa_cam=21965133348&hsa_grp=168724595502&hsa_ad=723787706071&hsa_src=g&hsa_tgt=kwd-602848796847&hsa_kw=best%20machine%20learning%20course&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjw4v6-BhDuARIsALprm33sTI-rS7Q41l3vjHqADB-RKuxK_indPom9iC4eA6TinLBY3YftjIsaArX4EALw_wcB)
 
